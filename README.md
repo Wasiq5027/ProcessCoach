@@ -4,8 +4,7 @@
 
 Everything you need to document, share, and optimize your business processes in one comprehensive platform.
 
-[Dashobard](https://github.com/Wasiq5027/ProcessCoach/blob/b30df6843158c0ea523d5bb4ec3d0e5222f43c5a/dashboard-preview%20(1).png)
-
+<img width="660" height="373" alt="image" src="https://github.com/user-attachments/assets/9cc2a24b-b984-4ba6-a94b-1fdcac2fcbe0" />
 
 ## 🎯 Overview
 
